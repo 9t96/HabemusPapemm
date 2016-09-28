@@ -1,0 +1,6 @@
+D:\CLAUDIO2\habemuspapa\Ppp_HabemusPope\Ppp_HabemusPope\bin\Debug\Ppp_HabemusPope.exe.config
+D:\CLAUDIO2\habemuspapa\Ppp_HabemusPope\Ppp_HabemusPope\obj\Debug\Ppp_HabemusPope.csprojResolveAssemblyReference.cache
+D:\CLAUDIO2\habemuspapa\Ppp_HabemusPope\Ppp_HabemusPope\bin\Debug\Ppp_HabemusPope.exe
+D:\CLAUDIO2\habemuspapa\Ppp_HabemusPope\Ppp_HabemusPope\bin\Debug\Ppp_HabemusPope.pdb
+D:\CLAUDIO2\habemuspapa\Ppp_HabemusPope\Ppp_HabemusPope\obj\Debug\Ppp_HabemusPope.exe
+D:\CLAUDIO2\habemuspapa\Ppp_HabemusPope\Ppp_HabemusPope\obj\Debug\Ppp_HabemusPope.pdb
