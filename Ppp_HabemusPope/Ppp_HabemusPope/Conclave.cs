@@ -25,14 +25,11 @@ namespace Ppp_HabemusPope
             Conclave.cantidadVotaciones = 0;
         }
         
-        static Conclave()
+        /*private static Conclave()
         {
-            Conclave con;
-            con = new Conclave();
             Conclave.fechaVotacion = DateTime.Now;
             Conclave.cantidadVotaciones = 0;
-
-        }
+        }*/
         
         private Conclave(int cantidadcardenales)
             :this()

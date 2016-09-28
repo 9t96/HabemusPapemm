@@ -15,7 +15,7 @@ namespace Ppp_HabemusPope
             Cardenal c2 = new Cardenal("Roberto", "Juan XIV");
             Cardenal c3 = new Cardenal("Roberto", "Juan XIV");
             Cardenal c4 = new Cardenal("Juan", "Mateo I", ENacionalidades.Español);
-            Cardenal c5 = new Cardenal("Mario", "Francisco I", ENacionalidades.Argentino);
+            Cardenal c5 = new Cardenal("Mario", "Francisc  I", ENacionalidades.Argentino);
             Cardenal c6 = new Cardenal("John", "Peter II", ENacionalidades.Nigeriano);
             Cardenal c7 = new Cardenal("John", "Peter II", ENacionalidades.Polaco);
             //AGREGO CARDENALES AL CONCLAVE
