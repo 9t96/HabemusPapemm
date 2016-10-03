@@ -55,19 +55,19 @@ namespace Ppp_HabemusPope
 
         private bool HayLugar()
         { 
-            if(this._cardenales.Count <= this._cantMaxCardenales)
+            if(this._cantMaxCardenales > this._cardenales.Count)
             {
-                return false;
+                return true;
             }
 
-            return true;
+            return false;
         }
 
         private string MostrarCardenales() 
         {
 
             StringBuilder str = new StringBuilder();
-            str.Append("-----------Cardenales----------");
+            str.AppendLine("-----------Cardenales----------");
             foreach (var item in this._cardenales)
             {
                 str.AppendLine(Cardenal.Mostrar(item));
@@ -81,7 +81,7 @@ namespace Ppp_HabemusPope
         {
             StringBuilder str = new StringBuilder();
 
-            str.Append("Lugar: "+this._lugarEleccion+"Fecha: "+ Conclave.fechaVotacion + "CanVotos: " + Conclave.cantidadVotaciones);
+            str.AppendLine("Lugar: "+this._lugarEleccion+"Fecha: "+ Conclave.fechaVotacion + "CanVotos: " + Conclave.cantidadVotaciones);
             
             if (this._habemusPapa)
                 str.AppendLine("HABEMUS PAPA " + this._papa.getNombreYNombrePapal());
@@ -97,7 +97,7 @@ namespace Ppp_HabemusPope
         {
             foreach (var item in conc._cardenales)
             {
-                if (item == cardenal)
+                if (!(item != cardenal))
                     return true; 
             }
 
@@ -118,13 +118,11 @@ namespace Ppp_HabemusPope
         public static Conclave operator +(Conclave con, Cardenal cardenal)
         {
             if (con == cardenal)
+                Console.WriteLine("El cardenal ya esta en el conclave!!");
+            else if (con.HayLugar())
+                con._cardenales.Add(cardenal);
+            else
                 Console.WriteLine("No hay mas lugar!!!");
-                return con;
-            if (!(con == cardenal))
-                Console.WriteLine("No hay mas lugar!!!");
-                return con;
-
-            con._cardenales.Add(cardenal);
 
             return con;
         }

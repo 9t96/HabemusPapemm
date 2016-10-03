@@ -4,3 +4,9 @@ D:\CLAUDIO2\habemuspapa\Ppp_HabemusPope\Ppp_HabemusPope\bin\Debug\Ppp_HabemusPop
 D:\CLAUDIO2\habemuspapa\Ppp_HabemusPope\Ppp_HabemusPope\bin\Debug\Ppp_HabemusPope.pdb
 D:\CLAUDIO2\habemuspapa\Ppp_HabemusPope\Ppp_HabemusPope\obj\Debug\Ppp_HabemusPope.exe
 D:\CLAUDIO2\habemuspapa\Ppp_HabemusPope\Ppp_HabemusPope\obj\Debug\Ppp_HabemusPope.pdb
+C:\Users\PC-FNKPIOLA\Documents\GitHub\HabemusPapa\Ppp_HabemusPope\Ppp_HabemusPope\bin\Debug\Ppp_HabemusPope.exe.config
+C:\Users\PC-FNKPIOLA\Documents\GitHub\HabemusPapa\Ppp_HabemusPope\Ppp_HabemusPope\obj\Debug\Ppp_HabemusPope.exe
+C:\Users\PC-FNKPIOLA\Documents\GitHub\HabemusPapa\Ppp_HabemusPope\Ppp_HabemusPope\obj\Debug\Ppp_HabemusPope.pdb
+C:\Users\PC-FNKPIOLA\Documents\GitHub\HabemusPapa\Ppp_HabemusPope\Ppp_HabemusPope\bin\Debug\Ppp_HabemusPope.exe
+C:\Users\PC-FNKPIOLA\Documents\GitHub\HabemusPapa\Ppp_HabemusPope\Ppp_HabemusPope\bin\Debug\Ppp_HabemusPope.pdb
+C:\Users\PC-FNKPIOLA\Documents\GitHub\HabemusPapa\Ppp_HabemusPope\Ppp_HabemusPope\obj\Debug\Ppp_HabemusPope.csprojResolveAssemblyReference.cache
